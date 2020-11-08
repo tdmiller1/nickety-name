@@ -1,0 +1,18 @@
+{
+  "name": "nickety-name",
+  "version": "1.0.0",
+  "description": "Change each other nicknames... but not your own",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "tdmiller1",
+  "license": "ISC",
+  "dependencies": {
+    "dblapi.js": "^2.4.1",
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.6"
+  }
+}
