@@ -13,6 +13,8 @@
     "dblapi.js": "^2.4.1",
     "discord.js": "^12.4.1",
     "dotenv": "^8.2.0",
+    "log4js": "^6.3.0",
+    "log4js-protractor-appender": "^1.1.2",
     "nodemon": "^2.0.6"
   }
 }

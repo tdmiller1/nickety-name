@@ -1,0 +1,20 @@
+[2020-11-17T17:34:17.106] [WARN] console - Cheese is quite smelly.
+[2020-11-17T17:34:57.016] [DEBUG] console - Err: asdfasdfs
+[2020-11-17T17:37:15.671] [WARN] console - author: 775084689584816158 user: 775084689584816158That user isn't in this guild!
+[2020-11-17T17:37:34.366] [WARN] console - author: 692823357476831294 user: 692823357476831294That user isn't in this guild!
+[2020-11-17T17:37:34.473] [WARN] console - Err: DiscordAPIError: Missing Permissions
+[2020-11-17T17:38:29.847] [INFO] console - Server Started Successfully
+[2020-11-17T17:39:46.628] [INFO] console - Server Started Successfully
+[2020-11-17T17:40:18.960] [INFO] console - Server Started Successfully
+[2020-11-17T17:40:24.433] [INFO] console - author: ddddd user: undefined Server Started Successfully
+[2020-11-17T17:40:51.796] [INFO] console - Server Started Successfully
+[2020-11-17T17:41:35.542] [INFO] console - Server Started Successfully
+[2020-11-17T17:41:57.862] [INFO] console - Server Started Successfully
+[2020-11-17T17:42:09.718] [INFO] console - author: 775084689584816158 user: Nickety-Name Successful nickname change
+[2020-11-17T17:42:18.573] [INFO] console - Server Started Successfully
+[2020-11-17T17:42:29.220] [INFO] console - author: Nickety-Name user: Nickety-Name Successful nickname change
+[2020-11-17T17:43:43.742] [INFO] console - Server Started Successfully
+[2020-11-17T17:43:53.795] [INFO] console - author: tdmiller7 user: Nickety-Name Successful nickname change
+[2020-11-17T17:44:01.341] [WARN] console - author: tdmiller7 Atteempt to change own name
+[2020-11-17T17:44:11.956] [INFO] console - Server Started Successfully
+[2020-11-17T17:44:17.912] [WARN] console - Err: DiscordAPIError: Missing Permissions
